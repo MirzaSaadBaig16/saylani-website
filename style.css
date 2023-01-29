@@ -144,6 +144,48 @@ width:90px ;
     margin: 80px;
     /* width: 90px; */
 }
-
+.food{
+    position: absolute;
+    font-size: 20px;
+    margin: 180px 0px;
+    padding: 20px;
+    color: white;
+}
+.fundbox{
+    display:flex;
+    /* padding: 20px; */
+    /* border-radius: 30px; */
+}
+#box{
+    /* margin: 20px; */
+    /* padding: 10px 10px; */
+    /* border-radius: 30px; */
+}
+#row{
+    /* border-radius: 30px; */
+    margin: 0px 100px;
+}
+#logo{
+    padding: 10px;
+    /* border-radius: 30px; */
+}
+.english{
+    height: 40px;
+    width: 360px;
+    border-radius: 10px;
+    background-color: green;
+}
+.it{
+    position: absolute;
+    margin: 220px 420px;
+    color: white;
+    font-size: 20px;
+}
+.help{
+    position: absolute;
+    margin: 220px 820px;
+    color: white;
+    font-size: 20px;
+}
     
 
